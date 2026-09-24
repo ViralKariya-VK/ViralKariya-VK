@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Viral 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=Curious+creature+addicted+to+knowing+how+things+work.;It+seemed+harmless+at+first.;Turns+out+knowing+when+to+stop+is+optional.;Currently+down+a+rabbit+hole+(send+help)." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Data+Science+student.+Curious+about+how+things+work." alt="Typing SVG" />
 </p>
 
 ---
@@ -39,28 +39,23 @@ class Viral:
 - **Data** — numbers don't ghost you. They just go missing.
 - **Time Series** — mildly obsessed with why ARIMA works, not just that it does.
 
-### Stack
+### Toolbox
 
-`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `PyTorch-adjacent things` · `OpenCV` · `Django` · `PostgreSQL` · `Git`
-
-### The numbers (they don't ghost you, they just go missing)
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViralKariya-VK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViralKariya-VK&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,git,vscode,linux&theme=dark" alt="tools"/>
 </p>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViralKariya-VK&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+`NumPy` · `Pandas` · `Scikit-learn` · `OpenCV` · `PyTorch-adjacent things`
 
-### Proof I actually show up
+<sub>(the "-adjacent" is doing a lot of work here)</sub>
+
+### A snake lives here
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ViralKariya-VK/ViralKariya-VK/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
 
-<p align="center"><sub>(the snake eats my commit history — mildly unsettling, oddly satisfying)</sub></p>
+<p align="center"><sub>(it eats my contributions. the graph is quiet, so it is on a diet.)</sub></p>
 
 ### Elsewhere
 
