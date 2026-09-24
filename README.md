@@ -33,11 +33,11 @@ class Viral:
 
 ### Poking around in
 
-- **Algorithms** — `import sklearn` isn't always emotionally satisfying. Occasionally I implement things from scratch just to make sure I haven't been lying to myself.
-- **Computer Vision** — teaching computers to look at things. What could go wrong? I hope I haven't found out.
+- **Algorithms** — `import sklearn` isn't always emotionally satisfying. ["Occasionally I implement things from scratch just to make sure I haven't been lying to myself."](https://github.com/ViralKariya-VK/clustering-from-scratch)
+- **Computer Vision** — teaching computers to look at things. What could go wrong? I hope I haven't found out. ([VeriFace](https://github.com/ViralKariya-VK/VeriFace-Smart-Access-System) · [Anti-spoofing](https://github.com/ViralKariya-VK/anti-spoofing-VeriFace))
 - **AI** — still trying to figure out what the damn thing is actually doing.
 - **Data** — numbers don't ghost you. They just go missing.
-- **Time Series** — mildly obsessed with why ARIMA works, not just that it does.
+- **Time Series** — mildly obsessed with why ARIMA works, not just that it does. ([Global market shock transmission](https://github.com/ViralKariya-VK/global-market-shock-transmission))
 
 ### Toolbox
 
