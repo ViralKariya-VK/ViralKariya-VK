@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Viral 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kariyaviral">
+    <img src="assets/header.svg" alt="Viral Kariya — click to open LinkedIn" width="100%"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Data+Science+student.+Curious+about+how+things+work." alt="Typing SVG" />
@@ -42,12 +46,14 @@ class Viral:
 ### Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,git,vscode,linux&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,django,fastapi,postgres,redis,react,ts,tailwind,vite,powerbi,git,github,vscode,linux&theme=dark" alt="tools"/>
 </p>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `OpenCV` · `PyTorch-adjacent things`
+**Data & ML:** `NumPy` · `Pandas` · `XGBoost` · `LightGBM` · `SHAP` · `Optuna` · `MLflow` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit`<br>
+**Vision:** `OpenCV` · `InsightFace` · `ONNX Runtime` · `Ultralytics YOLO` · `EasyOCR`<br>
+**Backend:** `Django REST` · `Celery` · `SQLAlchemy` · `PostGIS` · `WebSockets` · `Leaflet`
 
-<sub>(the "-adjacent" is doing a lot of work here)</sub>
+<sub>(the "-adjacent" is gone. PyTorch has been earned.)</sub>
 
 ### A snake lives here
 
