@@ -12,7 +12,7 @@
 
 ### Currently
 
-MSc Data Science @ NMIMS Mumbai · was BCA before that, topped the batch, still not sure how.
+MSc Data Science @ NMIMS Mumbai · completed BCA before that, topped the batch, still not sure how.
 Heading into a professional stint at Pfizer post-December — figuring out what that actually means before I start calling myself anything.
 
 ### What I actually do
